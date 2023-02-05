@@ -1,7 +1,7 @@
 # AWS
-![AWS](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fco-marketing%2F&psig=AOvVaw3mbG0c66VvG84RwkymNtyj&ust=1675678212005000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjwl_eR_vwCFQAAAAAdAAAAABAY)
+![AWS](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_REV_SQ.8c88ac215fe4e441dc42865dd6962ed4f444a90d.png)
 # Learning for CLF-C01 Certification
-![CLF-C01](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fcertification%2Fcertified-cloud-practitioner%2F&psig=AOvVaw31NdHKTldk1cshMVg5Jh98&ust=1675678282054000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjgvpmS_vwCFQAAAAAdAAAAABAQ)
+![CLF-C01](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)
 ## Introduction about the certification
  By doing this entry-level certification,we may come to know about following things:
  * Cloud Architecture
