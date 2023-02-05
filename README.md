@@ -34,5 +34,5 @@ we have to score a 700 out of 1000 marks to get pass.
 
     **Billing and Pricing**     - 16%, 10-11 questions
 # Cloud Concepts
-## =======================DAY-1============================
+## =======================DAY-1===============================
 
