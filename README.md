@@ -36,5 +36,5 @@ we have to score a 700 out of 1000 marks to get pass.
 
 Check the official Exam Guide[Click Here](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 # Cloud Concepts
-## ==========================DAY-1===============================
+## ==========================DAY-1==============================
 
