@@ -66,13 +66,20 @@ the resources required are:
   Eg: Amazon purchases servers at a fraction of the cost that you could, and pass the savings on to you
  ### AWS ECONOMICS
  
- **CapEx & OpEx** 
- Capital Expenses - Intial cost spent to buy hardware(H/W) and software(S/W)
- Operationsl Expenses - Cost spent to Maintainance of S/W & H/W , Electricity, A/C, IT Employees hiring & Training.
- **on-premises Infrastructure:**
- *on-premises infrastructure = CapEx + OpEx*
- **Cloud Infrastructure:**
- *Cloud infrastructure = <50% of OpEx*
+ **CapEx & OpEx**  
+ 
+ Capital Expenses - Intial cost spent to buy hardware(H/W) and software(S/W)  
+ 
+ Operationsl Expenses - Cost spent to Maintainance of S/W & H/W , Electricity, A/C, IT Employees hiring & Training.  
+ 
+ **on-premises Infrastructure:**  
+ 
+ *on-premises infrastructure = CapEx + OpEx*  
+ 
+ **Cloud Infrastructure:**  
+ 
+ *Cloud infrastructure = <50% of OpEx*  
+ 
  OpEx includes only Subscription fee 
  
  **Reduce Costs in AWS**
