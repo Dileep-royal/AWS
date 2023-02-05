@@ -74,11 +74,11 @@ the resources required are:
  
  **on-premises Infrastructure:**  
  
- *on-premises infrastructure = CapEx + OpEx*  
+ *on-premises Expenses = CapEx + OpEx*  
  
  **Cloud Infrastructure:**  
  
- *Cloud infrastructure = <50% of OpEx*  
+ *Cloud Expenses = <50% of OpEx*  
  
  OpEx includes only Subscription fee 
  
