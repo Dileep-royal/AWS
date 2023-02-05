@@ -18,7 +18,8 @@ From 65, we have 50 Scored and 15 Unscored(no marks alloted) questions.
 we have to score a 700 out of 1000 marks to get pass.  
 
 ### weightage
-* Domain-1 : 
+* Domain-1 :  
+
 **Cloud Concepts**           26%, 13 questions
 
 * Domain-2 : 
