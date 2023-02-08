@@ -34,7 +34,7 @@ we have to score a 700 out of 1000 marks to get pass.
 
     **Billing and Pricing**     - 16%, 10-11 questions 
 
-Check the official Exam Guide[Click Here](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)  
+Check the official Exam Guide - [Click Here](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)  
 
 # Cloud Concepts
 ## === DAY-1 ===
@@ -48,7 +48,7 @@ the resources required are:
 4. Networking - To allow users to connect to web application.
 5. Security  - To prevent the data theft of your data.  
 
-### Advantages/Benefits of Cloud**
+### Advantages/Benefits of Cloud
 * **Elasticity -** The Ability to adopt to workload cahnges (usually dynamic,short-term) .
 
   Eg: During Fifa world Cup, Streaming Applications Handling huge spike of traffic by increasing servers. 
