@@ -147,26 +147,42 @@ The security pillar describes how to take advantage of cloud technologies to pro
 The reliability pillar encompasses the ability of a workload to perform its intended function correctly and consistently when it’s expected to. This includes the ability to operate and test the workload through its total lifecycle. This paper provides in-depth, best practice guidance for implementing reliable workloads on AWS.  
 
 **Design principles:** 
-* 
-* 
-* 
-* 
-* 
+* Automatically recover from failure
+* Test recovery procedures
+* Scale horizontally to increase aggregate workload availability
+* Stop guessing capacity
+* Manage change through automation
 
 #### Performance Efficency-
 The ability to use computing resources efficiently to meet system requirements, and to maintain that efficiency as demand changes and technologies evolve.   
 
-**Design principles:**
+**Design principles:**  
+* Democratize advanced technologies
+* Go global in minutes
+* Use serverless architectures
+* Experiment more often
+* Consider mechanical sympathy
 
 #### Cost optimization
 The ability to run systems to deliver business value at the lowest price point.   
 
 **Design principles:**
+* Implement cloud financial management
+* Adopt a consumption model
+* Measure overall efficiency
+* Stop spending money on undifferentiated heavy lifting
+* Analyze and attribute expenditure  
 
 #### Sustainability
 The ability to continually improve sustainability impacts by reducing energy consumption and increasing efficiency across all components of a workload by maximizing the benefits from the provisioned resources and minimizing the total resources required.   
 
-**Design principles:**
+**Design principles:**  
+* Understand your impact
+* Establish sustainability goals
+* Maximize utilization
+* Anticipate and adopt new, more efficient hardware and software offerings
+* Use managed services
+* Reduce the downstream impact of your cloud workloads
 
 To Know more About AWS Architecture - [Click Here](https://aws.amazon.com/architecture/well-architected/?achp_expl1&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 
