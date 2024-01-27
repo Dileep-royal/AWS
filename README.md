@@ -1,5 +1,5 @@
 # AWS
-# Learning for CLF-C01 Certification
+# Learning for CLF-C02 Certification
 ![CLF-C01](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)
 ## Introduction about the certification
  By doing this entry-level certification,we may come to know about following things:
